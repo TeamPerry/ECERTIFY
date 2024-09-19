@@ -6,12 +6,12 @@
 ![image](https://github.com/user-attachments/assets/7658ffb9-86bb-47a3-b380-a9333326c91d)
 ![image](https://github.com/user-attachments/assets/c807d467-96a7-4bf4-9fa3-bffda8fd2099)
 ![image](https://github.com/user-attachments/assets/f41b7c17-3f49-428e-a47a-fa886f18d436)
-Problem Statement Title:
+# **Problem Statement Title:**
 The current process of issuing caste and other certificates is often plagued by inefficiencies, delays, and lack of real-time monitoring. This results in long waiting times for applicants and difficulty for authorities to manage resources effectively. To address these issues, an advanced system is proposed that leverages technology for real-time tracking, efficient resource allocation, and improved service delivery.
-Introduction:
+## **Introduction:**
 Our advanced e-Certify  system is designed to streamline the process of applying for and issuing caste and other certificates. By leveraging modern technology, we aim to reduce inefficiencies, delays, and improve overall service delivery. This document outlines the integration process, technical approach, and the development of the necessary web pages.
- System Overview:
-Our solution involves three interconnected systems:                                                                                                                                                                                                                                                 1.   E-Certify System  : User-facing application for certificate application and status tracking.
+## ** System Overview:**
+Our solution involves three interconnected systems:                                                                                                                                                 1.   E-Certify System  : User-facing application for certificate application and status tracking.
 2.   Panchayat System  : Internal dashboards for verification and processing by different roles (Admin, VRO, RI, MRO).
 3.   Central System  : Dashboard for higher authorities to oversee operations, manage resources, and monitor performance.All systems are connected to an integrated database for seamless data retrieval and management.
  Proposed Solution and Benefits:
