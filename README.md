@@ -125,22 +125,35 @@ The proposed system aims to revolutionize the certificate issuance process by in
 **Frameworks  :**
 
 •	Bootstrap 5  : For responsive design.
+
 •	Sass  : For CSS preprocessing.
+
 •	jQuery  : For DOM manipulation.
+
 •	DataTables  : For interactive tables.
+
 •	Chart.js  : For data visualization.
 
  **2. Backend Development:**
+ 
 •	Laravel, PHP  : Framework and language for server-side logic.
+
 •	JSON, AJAX  : Data interchange and asynchronous communication.
 
   **3. Encryption and Security:**
+  
 •	CSRF Protection  : Prevents cross-site request forgery attacks.
+
 •	Secure File Uploads  : Ensures uploaded files are safe and valid.
+
 •	Session Management  : Securely manages user sessions.
+
 •	Data Sanitization  : Cleans user inputs to prevent SQL injection and other attacks.
+
 •	Bcrypt  : Secure password hashing.
+
 •	3FA (3 Factor Authentication)  : Enhanced security with three-factor authentication.
+
 •	JSON Web Tokens (JWT)  : Secure token-based authentication.
 
   **4.Cloud Services:**
